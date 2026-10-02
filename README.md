@@ -1,4 +1,5 @@
-Hi! I'm a Machine Learning Engineer working at Superlinear. Feel free to reach out!
+Hi! I'm currently a PhD student in Economics at KU Leuven in the Industrial Organization Department. 
+Before that, I was a Machine Learning Engineer working at Superlinear. Feel free to reach out!
 
 <!--
 **motmans-pj/motmans-pj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
